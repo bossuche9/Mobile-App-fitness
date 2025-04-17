@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">30 Days of Fitness</string>
+    <string name="exercise_1">Barbell Squat</string>
+    <string name="exercise_2">Deadlift</string>
+    <string name="exercise_3">Bench Press</string>
+    <string name="day_1"> Day 1 </string>\
+    <string name="day_2"> Day 2 </string>
+    <string name="day_3"> Day 3 </string>
+    <string name="day_4"> Day 4 </string>
+    <string name="day_5"> Day 5 </string>
+    <string name="day_6"> Day 6 </string>
+    <string name="day_7"> Day 7 </string>
+    <string name="day_8"> Day 8 </string>
+    <string name="day_9"> Day 9 </string>
+    <string name="day_10"> Day 10 </string>
+    <string name="day_11"> Day 11</string>
+    <string name="day_12"> Day 12 </string>
+    <string name="day_13"> Day 13 </string>
+    <string name="day_14"> Day 14 </string>
+    <string name="day_15"> Day 15 </string>
+    <string name="day_16"> Day 16 </string>
+    <string name="day_17"> Day 17 </string>
+    <string name="day_18"> Day 18 </string>
+    <string name="day_19"> Day 19 </string>
+    <string name="day_20"> Day 20 </string>
+    <string name="day_21"> Day 21 </string>
+    <string name="day_22"> Day 22 </string>
+    <string name="day_23"> Day 23 </string>
+    <string name="day_24"> Day 24 </string>
+    <string name="day_25"> Day 25 </string>
+    <string name="day_26"> Day 26 </string>
+    <string name="day_27"> Day 27 </string>
+    <string name="day_28"> Day 28 </string>
+    <string name="day_29"> Day 29 </string>
+    <string name="day_30"> Day 30 </string>
+    <string name="exercise1_description" >
+        Brace your core and hold your breath on the way down. Bend at the Knees and go as low as you can and push with you heels on the way up and exhale.
+    </string>
+    <string name="exercise2_description" >
+        Brace your core, grab the barbell shoulder width aparth
+    </string>
+    <string name="exercise3_description" >
+        Brace your core, grab the barbell shoulder width aparth
+    </string>
+    <string name="expand_button_content_description">See more or less information about a Exercise.</string>
+
+</resources>
